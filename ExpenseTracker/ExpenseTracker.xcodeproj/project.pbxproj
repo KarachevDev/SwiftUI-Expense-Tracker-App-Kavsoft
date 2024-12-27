@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		3385120A2D1EBDCC00237143 /* DateFilterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 338512092D1EBDCC00237143 /* DateFilterView.swift */; };
+		3385120C2D1ECA9F00237143 /* NewExpenseView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3385120B2D1ECA9F00237143 /* NewExpenseView.swift */; };
 		33A29C9F2D1DD43D00D02E50 /* ExpenseTrackerApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33A29C9E2D1DD43D00D02E50 /* ExpenseTrackerApp.swift */; };
 		33A29CA12D1DD43D00D02E50 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33A29CA02D1DD43D00D02E50 /* ContentView.swift */; };
 		33A29CA32D1DD43E00D02E50 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 33A29CA22D1DD43E00D02E50 /* Assets.xcassets */; };
@@ -31,6 +32,7 @@
 
 /* Begin PBXFileReference section */
 		338512092D1EBDCC00237143 /* DateFilterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DateFilterView.swift; sourceTree = "<group>"; };
+		3385120B2D1ECA9F00237143 /* NewExpenseView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewExpenseView.swift; sourceTree = "<group>"; };
 		33A29C9B2D1DD43D00D02E50 /* ExpenseTracker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ExpenseTracker.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		33A29C9E2D1DD43D00D02E50 /* ExpenseTrackerApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExpenseTrackerApp.swift; sourceTree = "<group>"; };
 		33A29CA02D1DD43D00D02E50 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -108,6 +110,7 @@
 				33A29CCA2D1E8B1900D02E50 /* Helpers */,
 				33A29CBD2D1DDF2C00D02E50 /* TabView */,
 				33A29CAE2D1DD47800D02E50 /* IntroScreen.swift */,
+				3385120B2D1ECA9F00237143 /* NewExpenseView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -236,6 +239,7 @@
 				33A29CB42D1DD98000D02E50 /* Tab.swift in Sources */,
 				33A29CC52D1DDF5C00D02E50 /* Settings.swift in Sources */,
 				33A29C9F2D1DD43D00D02E50 /* ExpenseTrackerApp.swift in Sources */,
+				3385120C2D1ECA9F00237143 /* NewExpenseView.swift in Sources */,
 				33A29CC12D1DDF4500D02E50 /* Search.swift in Sources */,
 				33A29CC92D1E87C400D02E50 /* Date+Extensions.swift in Sources */,
 				33A29CC72D1E795C00D02E50 /* View+Extensions.swift in Sources */,
